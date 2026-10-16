@@ -11,3 +11,6 @@ data/raw/*.csv
 reports/~$*
 reports/~WRL*.tmp
 Video Presentation/
+presentation/
+reports/
+screenshots/
